@@ -14,8 +14,8 @@
     "@emotion/styled": "^11.11.0",
     "@hookform/resolvers": "^2.9.10",
     "@mui/icons-material": "^5.15.13",
-    "@mui/material": "^5.16.6",
-    "@mui/styled-engine-sc": "^6.0.0-alpha.18",
+    "@mui/material": "^7.0.0",
+    "@mui/styled-engine-sc": "^7.0.0",
     "@phosphor-icons/react": "^2.0.9",
     "@tiptap/extension-bubble-menu": "^2.0.0-beta.206",
     "@tiptap/extension-bullet-list": "^2.0.0-beta.209",
@@ -28,7 +28,7 @@
     "@tiptap/starter-kit": "^2.0.0-beta.206",
     "@types/node": "^18.11.18",
     "axios": "^0.27.2",
-    "date-fns": "^2.29.3",
+    "date-fns": "^3.0.0",
     "framer-motion": "^11.0.25",
     "fuse.js": "^6.6.2",
     "hamburger-react": "^2.5.0",
@@ -62,7 +62,7 @@
     "swiper": "^9.3.2",
     "tiptap": "^1.32.2",
     "uuid": "^9.0.0",
-    "yup": "^0.32.11"
+    "yup": "^1.0.0"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.8",

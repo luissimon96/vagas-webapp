@@ -27,7 +27,7 @@
     "@tiptap/react": "^2.0.0-beta.206",
     "@tiptap/starter-kit": "^2.0.0-beta.206",
     "@types/node": "^18.11.18",
-    "axios": "^0.27.2",
+    "axios": "^1.12.0",
     "date-fns": "^2.29.3",
     "framer-motion": "^11.0.25",
     "fuse.js": "^6.6.2",
